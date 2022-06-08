@@ -1,5 +1,6 @@
 # Week 9-10 "Contents"  
-
+### Task - Monday  
+Printer  
 ### Lesson demos - Monday - Tuesday  
 Hello World  
 Querys  
