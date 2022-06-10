@@ -1,0 +1,38 @@
+[
+    {
+        "artist": "Sabaton",
+        "title": "The Ballard of Bull",
+        "average-rating": 8,
+        "reviews":[
+            {
+                "reviewer": "Anon",
+                "rating": 10,
+                "review": "Amazing"
+            },
+            {
+                "reviewer": "John",
+                "rating": 8,
+                "review": "Feelings all over"
+            }
+        ]
+
+    },
+    {
+        "artist": "Tenacious D",
+        "title": "Tribute",
+        "average-rating": 10,
+        "reviews":[
+            {
+                "reviewer": "Jack",
+                "rating": 10,
+                "review": "I wish you was there"
+            },
+            {
+                "reviewer": "Cage",
+                "rating": 10,
+                "review": "Pure art"
+            }
+        ]
+
+    }
+]
