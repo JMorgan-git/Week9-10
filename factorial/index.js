@@ -7,7 +7,8 @@ function fac(fact) {
     for (let i = 1 ; i <= fact ; i++ ){
         res = res*i;
         if(fact==1){
-            console.log(`${j}!`);
+            console.log(`${i}!`);
+            return i;
             break;
         };
     };
@@ -26,7 +27,6 @@ function facrev(fact){
             return j;
             break;
         };
-
     }
 }
 fac(5);
