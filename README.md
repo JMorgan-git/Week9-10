@@ -1,4 +1,5 @@
 # Week 9-10 "Contents"  
+## Week 9  
 ### Task - Monday  
 Printer  
 ### Lesson demos - Monday - Tuesday  
@@ -20,3 +21,6 @@ todo-api
 Turtle-api  
 ### Friday - Friday  
 Turtle/w mongo  
+## Week 10  
+### factoral - Tuesday  
+factorial and tests
