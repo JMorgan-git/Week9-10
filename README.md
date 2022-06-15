@@ -24,3 +24,5 @@ Turtle/w mongo
 ## Week 10  
 ### factoral - Tuesday  
 factorial and tests
+### react\my-first-app - Wednesday  
+react tutorial tic tac toe   
