@@ -26,3 +26,9 @@ Turtle/w mongo
 factorial and tests
 ### react\my-first-app - Wednesday  
 react tutorial tic tac toe   
+### Teaching\lec-mock - Thursday 
+simple react useage to display stuff on website  
+### stuff\morereact\reactable
+react display  
+react props  
+react state  
