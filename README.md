@@ -28,7 +28,7 @@ factorial and tests
 react tutorial tic tac toe   
 ### Teaching\lec-mock - Thursday 
 simple react useage to display stuff on website  
-### stuff\morereact\reactable
+### stuff\morereact\reactable - Friday
 react display  
 react props  
 react state  
